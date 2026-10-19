@@ -1,5 +1,6 @@
 import time
 import os
+
 #start of the program
 password = ""
 clear_command = 'cls' if os.name == 'nt' else 'clear'
